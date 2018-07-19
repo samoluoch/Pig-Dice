@@ -20,3 +20,7 @@ div.container {
   height: 80px;
   width: 160px;
 }
+#button:hover {
+  background-color: white;
+  color: red;
+}
