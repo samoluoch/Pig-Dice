@@ -11,3 +11,6 @@
   background-color: lightblue;
   width: 50%;
 }
+div.container {
+  align-items: center;
+}
