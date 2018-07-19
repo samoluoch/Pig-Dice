@@ -14,3 +14,9 @@
 div.container {
   align-items: center;
 }
+#button {
+  color: white;
+  background-color: red;
+  height: 80px;
+  width: 160px;
+}
