@@ -13,6 +13,7 @@
 }
 div.container {
   align-items: center;
+  clear:left;
 }
 #button {
   color: white;
