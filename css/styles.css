@@ -1,10 +1,13 @@
 #letsPlay {
   background-color: lightblue;
   align: right;
+  width: 50%;
 }
 #rules {
   background-color: lightgray;
+  width: 50%;
 }
 #toss {
   background-color: lightblue;
+  width: 50%;
 }
