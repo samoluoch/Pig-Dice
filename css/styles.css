@@ -4,26 +4,34 @@
   text-align: center;
   color: white;
   margin-bottom: 0%;
+  height: 60px;
 }
 
 #letsPlay {
   background-color: lightblue;
   align: right;
   width: 100%;
+  height: 170px;
+  text-align: center;
 }
 #rules {
   background-color: lightgray;
   width: 100%;
+  height: 170px;
+  text-align: left;
 }
 #toss {
   background-color: lightblue;
   width: 100%;
   align-content: center;
   align-items: center;
+  height: 170px;
+  text-align: center;
 }
 div.container {
   align-items: center;
   clear:left;
+  height: 170px;
 }
 #bt {
   color: white;
@@ -40,10 +48,12 @@ div.container {
   text-emphasis-color: green;
 }
 #dice {
-  background-color: yellow;
+  background-color: lightgreen;
   float; right;
   width: 100%;
   text-align: center;
+  height: 170px;
+
 }
 #outcome {
   background-color: silver;
