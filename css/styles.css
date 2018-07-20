@@ -1,3 +1,11 @@
+#pig {
+  align-items: center;
+  background-color: blue;
+  text-align: center;
+  color: white;
+  margin-bottom: 0%;
+}
+
 #letsPlay {
   background-color: lightblue;
   align: right;
@@ -10,6 +18,8 @@
 #toss {
   background-color: lightblue;
   width: 100%;
+  align-content: center;
+  align-items: center;
 }
 div.container {
   align-items: center;
@@ -32,8 +42,15 @@ div.container {
 #dice {
   background-color: yellow;
   float; right;
+  width: 100%;
+  text-align: center;
 }
 #outcome {
   background-color: silver;
   height: 80px;
+  width: 100%;
+}
+.container {
+  width: 100%;
+  height: 100%;
 }
