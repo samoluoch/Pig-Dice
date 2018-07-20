@@ -29,3 +29,7 @@ div.container {
   color: gr;
   text-emphasis-color: green;
 }
+#dice {
+  background-color: yellow;
+  float; right;
+}
