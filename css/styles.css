@@ -15,13 +15,13 @@ div.container {
   align-items: center;
   clear:left;
 }
-#button {
+#bt {
   color: white;
   background-color: red;
   height: 80px;
   width: 160px;
 }
-#button:hover {
+#bt:hover {
   background-color: white;
   color: red;
 }
