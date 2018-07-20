@@ -1,15 +1,15 @@
 #letsPlay {
   background-color: lightblue;
   align: right;
-  width: 50%;
+  width: 100%;
 }
 #rules {
   background-color: lightgray;
-  width: 50%;
+  width: 100%;
 }
 #toss {
   background-color: lightblue;
-  width: 50%;
+  width: 100%;
 }
 div.container {
   align-items: center;
@@ -32,4 +32,8 @@ div.container {
 #dice {
   background-color: yellow;
   float; right;
+}
+#outcome {
+  background-color: silver;
+  height: 80px;
 }

@@ -12,7 +12,7 @@
 <body>
   <h1>Pig Dice</h1>
   <div class="container">
-    <div class="row">
+    <div class="row" id="row">
       <div class="col-md-3" id="letsPlay">
         <h1>Let's Play Pig Dice</h1>
         <p>Pig Dice is a fun game</p>
@@ -30,16 +30,18 @@
         <div class="dice-button">
 
           <button id="bt"><strong><i><big>Click to Roll Dice</big></i></strong></button>
-
-          <div class="col-md-3" id="dice">
-            <div id="dice1" class="toss1">0</div>
-            <div id="dice2" class="toss1">0</dive>
-          </div>
-
-          <h2 id="outcome">Outcome</h2>
-
         </div>
       </div>
+
+      <div class="col-md-3" id="dice">
+        <h3>Dice One Result</h3>
+          <div id="dice1" class="toss1">0</div>
+        <h3>Dice Two Result</h3>
+          <div id="dice2" class="toss1">0</div>
+      </div>
+
+      <h2 id="outcome">Outcome</h2>
+
     </div>
   </div>
 </body>
