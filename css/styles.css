@@ -25,3 +25,7 @@ div.container {
   background-color: white;
   color: red;
 }
+.toss1 {
+  color: gr;
+  text-emphasis-color: green;
+}
