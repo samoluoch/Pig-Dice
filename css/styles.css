@@ -44,7 +44,6 @@ div.container {
   color: red;
 }
 .toss1 {
-  color: gr;
   text-emphasis-color: green;
 }
 #dice {
@@ -59,6 +58,8 @@ div.container {
   background-color: silver;
   height: 80px;
   width: 100%;
+  text-align: center;
+  color: red;
 }
 .container {
   width: 100%;
