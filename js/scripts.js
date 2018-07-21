@@ -13,4 +13,8 @@ $(document).ready(function() {
         $("#outcome").append("totalDice");
       };
 });
+function Player (Player1, Player2) {
+  this.player1 = Player 1;
+  this.player2 = Player 2;
+}
 });
