@@ -16,5 +16,7 @@ $(document).ready(function() {
 function Player (Player1, Player2) {
   this.player1 = Player 1;
   this.player2 = Player 2;
+  var Player1 = newPlayer("#Player1");
+  var Player2 = newPlayer("#Player2");
 }
 });
