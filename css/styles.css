@@ -20,13 +20,14 @@
   height: 170px;
   text-align: left;
 }
-#toss {
+#roll {
   background-color: lightblue;
   width: 100%;
   align-content: center;
   align-items: center;
   height: 370px;
   text-align: center;
+  float: center;
 }
 div.container {
   align-items: center;
@@ -55,17 +56,19 @@ div.container {
   color: white;
 
 }
-#outcome {
+#outcom {
   background-color: silver;
-  height: 180px;
+  height: 70px;
   width: 100%;
   text-align: center;
-  color: red;
 }
 .container {
   width: 100%;
   height: 100%;
 }
 #form {
+  color: red;
+}
+#outcome {
   color: red;
 }

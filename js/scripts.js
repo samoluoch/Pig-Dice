@@ -1,3 +1,4 @@
+//JS User Interface
 $(document).ready(function() {
     $("button#bt").click(function(event) {
       event.preventDefault();
@@ -13,6 +14,7 @@ $(document).ready(function() {
         $("#outcome").append("totalDice");
       };
 });
+//JS business logic
 function Player (Player1, Player2) {
   this.player1 = Player 1;
   this.player2 = Player 2;
