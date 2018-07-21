@@ -47,16 +47,17 @@ div.container {
   text-emphasis-color: green;
 }
 #dice {
-  background-color: lightgreen;
+  background-color: black;
   float; right;
   width: 100%;
   text-align: center;
   height: 170px;
+  color: white;
 
 }
 #outcome {
   background-color: silver;
-  height: 80px;
+  height: 180px;
   width: 100%;
   text-align: center;
   color: red;
